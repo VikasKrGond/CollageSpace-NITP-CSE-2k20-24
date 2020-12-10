@@ -1,6 +1,6 @@
 var Notes = [
-    ["CS1401 Notes","10-12-2020","https://drive.google.com/file/d/1e7DnWJZM0KyhWfQ4IKHbfMb4yVFShxrQ/view?usp=sharing"],
-    ["CS1401 Notes", "9-12-2020", "https://drive.google.com/file/d/1WwsmUhbp2BftvNkOhH0443Tt8mMJ3jqP/view?usp=sharing"]
+    ["CS1401 L2 Notes","10-12-2020","https://drive.google.com/file/d/1e7DnWJZM0KyhWfQ4IKHbfMb4yVFShxrQ/view?usp=sharing"],
+    ["CS1401 L1 Notes", "9-12-2020", "https://drive.google.com/file/d/1WwsmUhbp2BftvNkOhH0443Tt8mMJ3jqP/view?usp=sharing"]
 ]
 
 function setNotes() {
