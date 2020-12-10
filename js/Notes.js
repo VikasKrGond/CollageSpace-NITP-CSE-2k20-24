@@ -1,5 +1,6 @@
 var Notes = [
-    ["Time Table CSE1 (UnOfficial)", "10-12-2020", "https://patnanit-my.sharepoint.com/:w:/g/personal/pulkita_ug20_cse_nitp_ac_in/EdpRyJ3T3hFPgjX3kT8-VRYBDLk7CCvpPbgJn3FB3SxU1w?e=CmqwNa"],
+    ["CS1401 Notes", "9-12-2020", "https://drive.google.com/file/d/1WwsmUhbp2BftvNkOhH0443Tt8mMJ3jqP/view?usp=sharing"],
+    ["CS1401 Notes","10-12-2020","https://drive.google.com/file/d/1e7DnWJZM0KyhWfQ4IKHbfMb4yVFShxrQ/view?usp=sharing"]
 ]
 
 function setNotes() {
