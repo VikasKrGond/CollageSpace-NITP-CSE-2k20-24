@@ -1,6 +1,6 @@
 var lactures = [
-    ["Lacture1", "Date", "http://google.com"],
-    ["Lacture2", "Date", "Link"]
+    ["Lacture 2 Introduction to Electronics", "8-12-2020", "https://drive.google.com/file/d/1jcpYDi51k-9Rn9tvc2tPa38hpdK0nd0F/view"],
+    ["Lecture 1 Introduction to Electronics", "7-12-2020", "https://drive.google.com/file/d/1MVzDLSNXuQy3pLeF-Qe36ReDEXsbh1Rz/view"]
 ]
 
 function setLactures() {
