@@ -1,5 +1,5 @@
 var Notice = [
-    ["Notice1", "Date", "http://google.com"],
+    ["Time Table CSE1", "10-12-2020", "http://google.com"],
     ["Notice2", "Date", "Link"]
 ]
 
