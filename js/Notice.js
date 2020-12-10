@@ -1,6 +1,6 @@
 var Notice = [
-    ["Time Table CSE1", "10-12-2020", "http://google.com"],
-    ["Notice2", "Date", "Link"]
+    ["Time Table CSE1(UnOfficial)", "10-12-2020", "https://patnanit-my.sharepoint.com/:w:/g/personal/pulkita_ug20_cse_nitp_ac_in/Ee7JJPlp2-xKpuKevz5trRMBQ2Ht2KCGVtblPm-h0OpEaQ?e=kKC2aB"],
+    ["Time Table(Official)", "10-12-2020", "Link"]
 ]
 
 function setNotice() {
