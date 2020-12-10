@@ -38,6 +38,30 @@ function sideMenuClicked(menuItem) {
             }
         }, 500);
     }
+    if (menuItem == "Notes") {
+        $(function() {
+            $("#main-container").load("menuItems/Notes.html");
+        })
+        var x = setInterval(() => {
+            if (document.getElementById("Notes-ul") != "null") {
+                clearInterval(x)
+                document.getElementById("Notes-ul").innerHTML = "";
+                setNotes(); //from Notes.js
+            }
+        }, 500);
+    }
+    if (menuItem == "Syllabus") {
+        $(function() {
+            $("#main-container").load("menuItems/Syllabus.html");
+        })
+        var x = setInterval(() => {
+            if (document.getElementById("Syllabus-ul") != "null") {
+                clearInterval(x)
+                document.getElementById("Syllabus-ul").innerHTML = "";
+                setSyllabus(); //from Syllabus.js
+            }
+        }, 500);
+    }
 }
 
 sideMenuClicked("Notices")

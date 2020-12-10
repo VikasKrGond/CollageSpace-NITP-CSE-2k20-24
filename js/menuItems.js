@@ -1,4 +1,4 @@
-var menuItems = ["Lactures", "Notices", "Books"];
+var menuItems = ["Lactures", "Notices", "Books", "Notes", "Syllabus"];
 
 function setMenu() {
     var HTML1 = '<li class="nav-item"><button onclick="sideMenuClicked('
