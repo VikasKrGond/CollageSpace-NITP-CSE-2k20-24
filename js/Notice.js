@@ -1,6 +1,6 @@
 var Notice = [
     ["Time Table CSE1(UnOfficial)", "10-12-2020", "https://patnanit-my.sharepoint.com/:w:/g/personal/pulkita_ug20_cse_nitp_ac_in/Ee7JJPlp2-xKpuKevz5trRMBQ2Ht2KCGVtblPm-h0OpEaQ?e=kKC2aB"],
-    ["Time Table(Official)", "10-12-2020", "Link"]
+    ["Time Table(Official)", "10-12-2020", "http://www.nitp.ac.in/uploads20/CSED_1stYear_Dec-March-2020-semester_08_12_2020.pdf"]
 ]
 
 function setNotice() {
