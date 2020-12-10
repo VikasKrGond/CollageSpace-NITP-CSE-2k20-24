@@ -1,6 +1,6 @@
 var Syllabus = [
-        ["All Branch Syllabus","10-12-2020","https://drive.google.com/file/d/1QmgDJRkMgjfJLuTHEBtpWH1NAxsdr61Z/view?usp=sharing"],
-["HS1401 Syllabus", "10-12-2020", "https://drive.google.com/file/d/1dqPqMjFzm8JEXU4qQkwWoDF-sUDFYTsd/view?usp=sharing"],
+    ["All Branch Syllabus","10-12-2020","https://drive.google.com/file/d/1QmgDJRkMgjfJLuTHEBtpWH1NAxsdr61Z/view?usp=sharing"],
+    ["HS1401 Syllabus", "10-12-2020", "https://drive.google.com/file/d/1dqPqMjFzm8JEXU4qQkwWoDF-sUDFYTsd/view?usp=sharing"],
     ["EC1401 Syllabus","10-12-2020","https://drive.google.com/file/d/1Jcjvpx1BfU36Bz39lIjdEUoOsDwuF_j5/view?usp=sharing"],
     ["MA1401 Syllabus","10-12-2020","https://drive.google.com/file/d/1E4D8DuBf91Xh40qG1jDy87xa7adt0xlq/view?usp=sharing"],
 ]
