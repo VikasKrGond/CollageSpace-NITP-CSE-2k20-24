@@ -1,5 +1,6 @@
 var Syllabus = [
     ["HS1401 Syllabus", "10-12-2020", "https://drive.google.com/file/d/1dqPqMjFzm8JEXU4qQkwWoDF-sUDFYTsd/view?usp=sharing"],
+    ["EC1401 Syllabus","10-12-2020","https://drive.google.com/file/d/1Jcjvpx1BfU36Bz39lIjdEUoOsDwuF_j5/view?usp=sharing"]
 ]
 
 function setSyllabus() {
