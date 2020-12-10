@@ -1,5 +1,5 @@
 var Syllabus = [
-    ["Time Table CSE1 (UnOfficial)", "10-12-2020", "https://patnanit-my.sharepoint.com/:w:/g/personal/pulkita_ug20_cse_nitp_ac_in/EdpRyJ3T3hFPgjX3kT8-VRYBDLk7CCvpPbgJn3FB3SxU1w?e=CmqwNa"],
+    ["HS1401 Syllabus", "10-12-2020", "https://drive.google.com/file/d/1dqPqMjFzm8JEXU4qQkwWoDF-sUDFYTsd/view?usp=sharing"],
 ]
 
 function setSyllabus() {
