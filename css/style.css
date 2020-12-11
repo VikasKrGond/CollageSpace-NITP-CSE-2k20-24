@@ -55,6 +55,7 @@ body {
 .date-text {
     padding-top: 10px;
     color: gray;
+    text-align: left;
 }
 
 .hover:hover {
