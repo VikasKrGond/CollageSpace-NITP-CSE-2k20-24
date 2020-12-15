@@ -1,5 +1,5 @@
 var Notice = [
-    ["Proteus for windows","Password is www.up4pc.com","https://www113.zippyshare.com/d/B95JGTlr/37114/up4pc.com_Proteus%20Professional%208.9%20SP2%20Build%2028501.rar"],
+    ["Proteus for windows","Password is www.up4pc.com","https://drive.google.com/file/d/1a2p1_Hen014fTAMk4YmMxGQOxR274R9H/view?usp=sharing"],
     ["Academic calender for 1st year 2020","1-12-2020","https://drive.google.com/file/d/1qnXM0TXnrXjGQKZdc3kSxhBgKYkBjbpI/view?usp=sharing"],
     ["Time Table CSE1 (UnOfficial)", "10-12-2020", "https://patnanit-my.sharepoint.com/:w:/g/personal/pulkita_ug20_cse_nitp_ac_in/EdpRyJ3T3hFPgjX3kT8-VRYBDLk7CCvpPbgJn3FB3SxU1w?e=CmqwNa"],
     ["Time Table CSE2 (UnOfficial)", "10-12-2020", "https://drive.google.com/file/d/1zIiZfzvPP9DoSqaM_jyP9GzdJOAL8kHY/view?usp=sharing"],
